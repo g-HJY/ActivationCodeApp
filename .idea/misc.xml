@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/my_old_project/ActivationCodeApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/my_old_project/ActivationCodeApp/app/src/main/res/layout/load_activity_authentication.xml" value="0.2715477293790547" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11296296296296296" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/imagepicker/src/main/res/layout/imagepicker_activity_image_crop.xml" value="0.1421875" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/imagepicker/src/main/res/layout/imagepicker_activity_image_grid.xml" value="0.1421875" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/imagepicker/src/main/res/layout/imagepicker_activity_image_panoramic.xml" value="0.1421875" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/imagepicker/src/main/res/layout/imagepicker_activity_image_preview.xml" value="0.1421875" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/imagepicker/src/main/res/layout/imagepicker_adapter_camera_item.xml" value="0.1421875" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/imagepicker/src/main/res/layout/imagepicker_adapter_folder_list_item.xml" value="0.1421875" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/imagepicker/src/main/res/layout/imagepicker_adapter_image_list_item.xml" value="0.1421875" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/imagepicker/src/main/res/layout/imagepicker_include_top_bar.xml" value="0.1421875" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/imagepicker/src/main/res/layout/imagepicker_toast_prompt.xml" value="0.1421875" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/lib-zxing/src/main/res/layout/zxing_camera.xml" value="0.14356884057971014" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/lib-zxing/src/main/res/layout/zxing_fragment_capture.xml" value="0.1421875" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/lib-zxing/src/main/res/layout/zxing_qrcode.xml" value="0.1421875" />
+        <entry key="..\:/my_old_project/GetActiveCodeApp/lib-zxing/src/main/res/layout/zxing_toast_prompt.xml" value="0.1421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>

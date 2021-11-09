@@ -1,0 +1,405 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\material-1.3.0.aar\09f27effaf7c0b1f71c2eea5b648b0c0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.4.aar\c0276ea9ad692353e77cc8e3e216d0c8\AndroidManifest.xml:2:1-11:12
+MERGED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:2:1-19:12
+MERGED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\98848c8c827613baa2ec38ca182f1980\AndroidManifest.xml:17:1-22:12
+MERGED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-76:12
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\library-1.2.4.aar\3c17bf15db70963f5a2c96f769af0401\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\790f0865ed87a3589f876f7cfe41df4f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\7a91265cbd62d982b89fa65544447213\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\281e246f0ab49e1bdd3df060a7f9b0c6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\d76633be384a908b5c32f83f32da8713\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\appcompat-1.2.0.aar\e0fa9de68ce502e5dd69ec5afea98ee1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0.aar\a6f543004ae307f86ad6f1da2de4892f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\7e234025c4518a30f38df6247d0d2023\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\260af3b8fb3f6d00834eedfd80ddcbff\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\df16efd7627c09b8b85d784de0d9966d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\dynamicanimation-1.0.0.aar\9beb54a6feb8e4ca4085c70423a657d7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\a55863080ed3d4f4600147471677b857\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\619eddb98578b940b2b3f11ac8187c0e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\ade949e726e886b0364200f86e055720\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7e2debaf58cbdad48b7cb6963735f38c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b25daf3ccd33e5439077a1630f543f25\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\784324aa3c240a59eb39e67409b9589f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\65f2daf5bdd8d1b66a037cccd9291944\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\e2e0676e8aad17a9517728b2b2ae33ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\1d971671bf11a335486fb7eb0d70c865\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\c2d4c95d387c9aa3dbd5b5e5aff127ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\6bb7b955693bb3c0c9ac07836f832b9d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\b6bc527842dcb47e012dd799e3f4f67c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-1.3.1.aar\c0ff2602239e2e53248d7a28a43398d4\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e36b0bca572ae18221bec6e1f7090f6d\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\a768d7cdb322d3873bf24f05ea28d3ed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\f48b8a4a5749c0153d141a8e848f494c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\20d9d436965ed35e7b4c88775805105b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\41a89b029e3799fc29cfb47463691c3c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\fc2f4730325cf613b20b9c693968aeec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\6f998dfd50af3fdd48d2353af0800767\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\eb48f0695805a491b79a308497004683\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\fc6af22bc96edd459eea0e9c58538776\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\1ddcc7c05f713a714f4662e92cf603cd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\c79227c7c57a694c921864cd8801263e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\749383bd9050602d47a96f965711dfcd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\annotation-experimental-1.0.0.aar\e3dfd22d35d33b9e9c4ac966d04b6537\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.vr:sdk-panowidget:1.140.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.140.0.aar\286fbeab3ae9488e7fb0ca915920755f\AndroidManifest.xml:2:1-9:12
+MERGED from [jp.wasabeef:glide-transformations:2.0.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.1.aar\d22c3b7a58c8bb713b60ca7b38b1c8b8\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.vr:sdk-commonwidget:1.140.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.140.0.aar\20db9bd571eaaabe428941d17407137b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.vr:sdk-common:1.140.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\sdk-common-1.140.0.aar\86a77e7980e256186fffd2f7d944eb6b\AndroidManifest.xml:2:1-9:12
+INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:4:5-40
+		INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-80
+MERGED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-81
+MERGED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:8:5-64
+MERGED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-65
+MERGED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:8:22-62
+uses-feature#android.hardware.camera
+ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:10:5-59
+	android:name
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:11:19-67
+uses-permission#android.permission.FLASHLIGHT
+ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:13:22-66
+application
+ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:14:5-31:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\material-1.3.0.aar\09f27effaf7c0b1f71c2eea5b648b0c0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\material-1.3.0.aar\09f27effaf7c0b1f71c2eea5b648b0c0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.4.aar\c0276ea9ad692353e77cc8e3e216d0c8\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.4.aar\c0276ea9ad692353e77cc8e3e216d0c8\AndroidManifest.xml:9:5-20
+MERGED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:11:5-17:19
+MERGED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-30:19
+MERGED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-30:19
+MERGED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-74:19
+MERGED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-74:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-1.3.1.aar\c0ff2602239e2e53248d7a28a43398d4\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-1.3.1.aar\c0ff2602239e2e53248d7a28a43398d4\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e36b0bca572ae18221bec6e1f7090f6d\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e36b0bca572ae18221bec6e1f7090f6d\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-1.3.1.aar\c0ff2602239e2e53248d7a28a43398d4\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:15:9-35
+		REJECTED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-36
+	android:theme
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:21:9-54
+	tools:replace
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-58
+activity#com.example.getactivecode.MainActivity
+ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:exported
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\material-1.3.0.aar\09f27effaf7c0b1f71c2eea5b648b0c0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\material-1.3.0.aar\09f27effaf7c0b1f71c2eea5b648b0c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.4.aar\c0276ea9ad692353e77cc8e3e216d0c8\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.4.aar\c0276ea9ad692353e77cc8e3e216d0c8\AndroidManifest.xml:5:5-7:41
+MERGED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:7:5-9:41
+MERGED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\98848c8c827613baa2ec38ca182f1980\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\98848c8c827613baa2ec38ca182f1980\AndroidManifest.xml:20:5-44
+MERGED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\library-1.2.4.aar\3c17bf15db70963f5a2c96f769af0401\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\library-1.2.4.aar\3c17bf15db70963f5a2c96f769af0401\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\790f0865ed87a3589f876f7cfe41df4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\790f0865ed87a3589f876f7cfe41df4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\7a91265cbd62d982b89fa65544447213\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\7a91265cbd62d982b89fa65544447213\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\281e246f0ab49e1bdd3df060a7f9b0c6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\281e246f0ab49e1bdd3df060a7f9b0c6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\d76633be384a908b5c32f83f32da8713\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\d76633be384a908b5c32f83f32da8713\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\appcompat-1.2.0.aar\e0fa9de68ce502e5dd69ec5afea98ee1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\appcompat-1.2.0.aar\e0fa9de68ce502e5dd69ec5afea98ee1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0.aar\a6f543004ae307f86ad6f1da2de4892f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0.aar\a6f543004ae307f86ad6f1da2de4892f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\7e234025c4518a30f38df6247d0d2023\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\7e234025c4518a30f38df6247d0d2023\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\260af3b8fb3f6d00834eedfd80ddcbff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\260af3b8fb3f6d00834eedfd80ddcbff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\df16efd7627c09b8b85d784de0d9966d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\df16efd7627c09b8b85d784de0d9966d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\dynamicanimation-1.0.0.aar\9beb54a6feb8e4ca4085c70423a657d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\dynamicanimation-1.0.0.aar\9beb54a6feb8e4ca4085c70423a657d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\a55863080ed3d4f4600147471677b857\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\a55863080ed3d4f4600147471677b857\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\619eddb98578b940b2b3f11ac8187c0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\619eddb98578b940b2b3f11ac8187c0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\ade949e726e886b0364200f86e055720\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\ade949e726e886b0364200f86e055720\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7e2debaf58cbdad48b7cb6963735f38c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7e2debaf58cbdad48b7cb6963735f38c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b25daf3ccd33e5439077a1630f543f25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b25daf3ccd33e5439077a1630f543f25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\784324aa3c240a59eb39e67409b9589f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\784324aa3c240a59eb39e67409b9589f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\65f2daf5bdd8d1b66a037cccd9291944\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\65f2daf5bdd8d1b66a037cccd9291944\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\e2e0676e8aad17a9517728b2b2ae33ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\e2e0676e8aad17a9517728b2b2ae33ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\1d971671bf11a335486fb7eb0d70c865\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\1d971671bf11a335486fb7eb0d70c865\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\c2d4c95d387c9aa3dbd5b5e5aff127ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\c2d4c95d387c9aa3dbd5b5e5aff127ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\6bb7b955693bb3c0c9ac07836f832b9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\6bb7b955693bb3c0c9ac07836f832b9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\b6bc527842dcb47e012dd799e3f4f67c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\b6bc527842dcb47e012dd799e3f4f67c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-1.3.1.aar\c0ff2602239e2e53248d7a28a43398d4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-1.3.1.aar\c0ff2602239e2e53248d7a28a43398d4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e36b0bca572ae18221bec6e1f7090f6d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e36b0bca572ae18221bec6e1f7090f6d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\a768d7cdb322d3873bf24f05ea28d3ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\a768d7cdb322d3873bf24f05ea28d3ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\f48b8a4a5749c0153d141a8e848f494c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\f48b8a4a5749c0153d141a8e848f494c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\20d9d436965ed35e7b4c88775805105b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\20d9d436965ed35e7b4c88775805105b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\41a89b029e3799fc29cfb47463691c3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\41a89b029e3799fc29cfb47463691c3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\fc2f4730325cf613b20b9c693968aeec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\fc2f4730325cf613b20b9c693968aeec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\6f998dfd50af3fdd48d2353af0800767\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\6f998dfd50af3fdd48d2353af0800767\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\eb48f0695805a491b79a308497004683\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\eb48f0695805a491b79a308497004683\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\fc6af22bc96edd459eea0e9c58538776\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\fc6af22bc96edd459eea0e9c58538776\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\1ddcc7c05f713a714f4662e92cf603cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\1ddcc7c05f713a714f4662e92cf603cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\c79227c7c57a694c921864cd8801263e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\c79227c7c57a694c921864cd8801263e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\749383bd9050602d47a96f965711dfcd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\749383bd9050602d47a96f965711dfcd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\annotation-experimental-1.0.0.aar\e3dfd22d35d33b9e9c4ac966d04b6537\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\annotation-experimental-1.0.0.aar\e3dfd22d35d33b9e9c4ac966d04b6537\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.vr:sdk-panowidget:1.140.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.140.0.aar\286fbeab3ae9488e7fb0ca915920755f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-panowidget:1.140.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\sdk-panowidget-1.140.0.aar\286fbeab3ae9488e7fb0ca915920755f\AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.1.aar\d22c3b7a58c8bb713b60ca7b38b1c8b8\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.1.aar\d22c3b7a58c8bb713b60ca7b38b1c8b8\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.vr:sdk-commonwidget:1.140.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.140.0.aar\20db9bd571eaaabe428941d17407137b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-commonwidget:1.140.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\sdk-commonwidget-1.140.0.aar\20db9bd571eaaabe428941d17407137b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-common:1.140.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\sdk-common-1.140.0.aar\86a77e7980e256186fffd2f7d944eb6b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.vr:sdk-common:1.140.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\sdk-common-1.140.0.aar\86a77e7980e256186fffd2f7d944eb6b\AndroidManifest.xml:5:5-7:41
+INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\my_old_project\GetActiveCodeApp\app\src\main\AndroidManifest.xml
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:13:13-86
+uses-permission#android.permission.VIBRATE
+ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:12:22-63
+activity#com.uuzuche.lib_zxing.activity.CaptureActivity
+ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:18:9-23:63
+	android:screenOrientation
+		ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:21:13-49
+	android:windowSoftInputMode
+		ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:23:13-60
+	android:configChanges
+		ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-63
+	android:theme
+		ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:22:13-63
+	android:name
+		ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:19:13-74
+activity#com.uuzuche.lib_zxing.activity.QRCodeActivity
+ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-29:63
+	android:screenOrientation
+		ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:27:13-49
+	android:windowSoftInputMode
+		ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-60
+	android:configChanges
+		ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:26:13-63
+	android:theme
+		ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:28:13-58
+	android:name
+		ADDED from [:lib-zxing] F:\my_old_project\GetActiveCodeApp\lib-zxing\build\intermediates\library_manifest\release\AndroidManifest.xml:25:13-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:12:22-81
+activity#com.lzy.imagepicker.ui.ImageBaseActivity
+ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-77
+	android:name
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:21:19-74
+activity#com.lzy.imagepicker.ui.ImageGridActivity
+ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-26:55
+	android:screenOrientation
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:25:13-49
+	android:configChanges
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:24:13-59
+	android:theme
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:26:13-52
+	android:name
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:23:13-68
+activity#com.lzy.imagepicker.ui.ImageCropActivity
+ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-32:55
+	android:screenOrientation
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-49
+	android:hardwareAccelerated
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:30:13-48
+	android:configChanges
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-59
+	android:theme
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-52
+	android:name
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:28:13-68
+activity#com.lzy.imagepicker.ui.ImagePreviewActivity
+ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:33:9-37:65
+	android:screenOrientation
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-49
+	android:configChanges
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-59
+	android:theme
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-62
+	android:name
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-71
+activity#com.lzy.imagepicker.ui.ImagePreviewDelActivity
+ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:38:9-42:65
+	android:screenOrientation
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:41:13-49
+	android:configChanges
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:40:13-59
+	android:theme
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-62
+	android:name
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-74
+activity#com.lzy.imagepicker.ui.ImageCameraActivity
+ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:43:9-47:55
+	android:screenOrientation
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-59
+	android:theme
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:47:13-52
+	android:name
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:44:13-70
+provider#com.lzy.imagepicker.ImagePickerProvider
+ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:49:9-58:20
+	android:screenOrientation
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-49
+	android:grantUriPermissions
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:53:13-47
+	android:authorities
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:51:13-60
+	android:exported
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:50:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-57:58
+	android:resource
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:57:17-55
+	android:name
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:56:17-67
+activity#com.lzy.imagepicker.ui.ImagePanoramicActivity
+ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:60:9-63:65
+	android:configChanges
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:62:13-59
+	android:theme
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-62
+	android:name
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-73
+activity#com.lzy.imagepicker.ui.VideoGridActivity
+ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:64:9-68:55
+	android:screenOrientation
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-49
+	android:configChanges
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-59
+	android:theme
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:68:13-52
+	android:name
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:65:13-68
+activity#com.lzy.imagepicker.ui.VideoPreviewActivity
+ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:69:9-73:55
+	android:screenOrientation
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:72:13-49
+	android:configChanges
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:71:13-59
+	android:theme
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:73:13-52
+	android:name
+		ADDED from [:imagepicker] F:\my_old_project\GetActiveCodeApp\imagepicker\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-71

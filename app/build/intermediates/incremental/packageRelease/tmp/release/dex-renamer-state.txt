@@ -1,0 +1,4 @@
+#Tue Nov 09 14:20:37 CST 2021
+base.0=F\:\\my_old_project\\GetActiveCodeApp\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

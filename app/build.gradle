@@ -1,0 +1,109 @@
+plugins {
+    id 'com.android.application'
+}
+
+
+def keystoreFilepath = ''
+def keystorePSW = ''
+def keystoreAlias = ''
+def keystoreAliasPSW = ''
+// default keystore file, PLZ config file path in local.properties
+def keyfile = file('s.keystore.temp')
+
+Properties properties = new Properties()
+// local.properties file in the root director
+properties.load(project.rootProject.file('local.properties').newDataInputStream())
+keystoreFilepath = properties.getProperty("keystore.path")
+
+if (keystoreFilepath) {
+    keystorePSW = properties.getProperty("keystore.password")
+    keystoreAlias = properties.getProperty("keystore.alias")
+    keystoreAliasPSW = properties.getProperty("keystore.alias_password")
+    keyfile = file(keystoreFilepath)
+}
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "com.example.vertify"
+        minSdkVersion 19
+        targetSdkVersion 28
+        versionCode 1 //每次发版，版本号+1
+        versionName "1.0.0"
+        ndk{
+            moduleName "JniUtil"
+            abiFilters "armeabi-v7a"
+        }
+        sourceSets.main {
+            jni.srcDirs = []
+            jniLibs.srcDir "src/main/libs"
+        }
+    }
+
+    signingConfigs {
+        debug {
+            storeFile keyfile
+            storePassword keystorePSW
+            keyAlias keystoreAlias
+            keyPassword keystoreAliasPSW
+            println("====== signingConfigs.debug ======")
+        }
+        myConfig {
+            storeFile keyfile
+            storePassword keystorePSW
+            keyAlias keystoreAlias
+            keyPassword keystoreAliasPSW
+            println("====== signingConfigs.release ======")
+        }
+    }
+
+    buildTypes {
+        debug {
+            println("====== buildTypes.debug ======")
+            signingConfig signingConfigs.debug
+        }
+
+        release {
+            //是否混淆 true混淆  false不混淆
+            minifyEnabled false
+            zipAlignEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            if (keyfile.exists()) {
+                println("WITH -> buildTypes -> release: using jks key")
+                signingConfig signingConfigs.myConfig
+            } else {
+                println("WITH -> buildTypes -> release: using default key")
+            }
+            applicationVariants.all { variant ->
+                variant.outputs.all { output ->
+                    def fileName
+                    if (variant.buildType.name == "release") {
+                        fileName = "active_release.log"
+                    } else if (variant.buildType.name == "debug") {
+                        fileName = "active_debug.apk"
+                    } else {
+                        fileName = "active_beta.apk"
+                    }
+                    outputFileName = fileName
+                }
+            }
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+    implementation 'com.google.android.material:material:1.3.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation 'pub.devrel:easypermissions:1.2.0'
+    implementation files('src\\main\\libs\\zxing.jar')
+    testImplementation 'junit:junit:4.+'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+}

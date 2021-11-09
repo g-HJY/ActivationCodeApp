@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\material-1.3.0.aar\09f27effaf7c0b1f71c2eea5b648b0c0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.4.aar\c0276ea9ad692353e77cc8e3e216d0c8\AndroidManifest.xml:2:1-11:12
+MERGED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\98848c8c827613baa2ec38ca182f1980\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\281e246f0ab49e1bdd3df060a7f9b0c6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\d76633be384a908b5c32f83f32da8713\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\appcompat-1.2.0.aar\e0fa9de68ce502e5dd69ec5afea98ee1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0.aar\a6f543004ae307f86ad6f1da2de4892f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\7e234025c4518a30f38df6247d0d2023\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\260af3b8fb3f6d00834eedfd80ddcbff\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\df16efd7627c09b8b85d784de0d9966d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\dynamicanimation-1.0.0.aar\9beb54a6feb8e4ca4085c70423a657d7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\a55863080ed3d4f4600147471677b857\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\619eddb98578b940b2b3f11ac8187c0e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\ade949e726e886b0364200f86e055720\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7e2debaf58cbdad48b7cb6963735f38c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\784324aa3c240a59eb39e67409b9589f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\65f2daf5bdd8d1b66a037cccd9291944\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\e2e0676e8aad17a9517728b2b2ae33ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\b6bc527842dcb47e012dd799e3f4f67c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-1.3.1.aar\c0ff2602239e2e53248d7a28a43398d4\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e36b0bca572ae18221bec6e1f7090f6d\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\a768d7cdb322d3873bf24f05ea28d3ed\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\f48b8a4a5749c0153d141a8e848f494c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\20d9d436965ed35e7b4c88775805105b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\41a89b029e3799fc29cfb47463691c3c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\6f998dfd50af3fdd48d2353af0800767\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\eb48f0695805a491b79a308497004683\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\fc6af22bc96edd459eea0e9c58538776\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\1ddcc7c05f713a714f4662e92cf603cd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\c79227c7c57a694c921864cd8801263e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\749383bd9050602d47a96f965711dfcd\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\fc2f4730325cf613b20b9c693968aeec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\annotation-experimental-1.0.0.aar\e3dfd22d35d33b9e9c4ac966d04b6537\AndroidManifest.xml:17:1-24:12
+INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:6:5-27:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\material-1.3.0.aar\09f27effaf7c0b1f71c2eea5b648b0c0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\material-1.3.0.aar\09f27effaf7c0b1f71c2eea5b648b0c0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.4.aar\c0276ea9ad692353e77cc8e3e216d0c8\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.4.aar\c0276ea9ad692353e77cc8e3e216d0c8\AndroidManifest.xml:9:5-20
+MERGED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:11:5-17:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-1.3.1.aar\c0ff2602239e2e53248d7a28a43398d4\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-1.3.1.aar\c0ff2602239e2e53248d7a28a43398d4\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e36b0bca572ae18221bec6e1f7090f6d\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e36b0bca572ae18221bec6e1f7090f6d\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-1.3.1.aar\c0ff2602239e2e53248d7a28a43398d4\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:12:9-55
+	tools:replace
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:13:9-44
+activity#com.example.vertify.AuthActivity
+ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:exported
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:15:13-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.vertify.MainActivity
+ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:24:9-26:77
+	android:configChanges
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:26:13-74
+	android:name
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml:25:13-41
+uses-sdk
+INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\material-1.3.0.aar\09f27effaf7c0b1f71c2eea5b648b0c0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\material-1.3.0.aar\09f27effaf7c0b1f71c2eea5b648b0c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.4.aar\c0276ea9ad692353e77cc8e3e216d0c8\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.4.aar\c0276ea9ad692353e77cc8e3e216d0c8\AndroidManifest.xml:5:5-7:41
+MERGED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\98848c8c827613baa2ec38ca182f1980\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\98848c8c827613baa2ec38ca182f1980\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\281e246f0ab49e1bdd3df060a7f9b0c6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0.aar\281e246f0ab49e1bdd3df060a7f9b0c6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\d76633be384a908b5c32f83f32da8713\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\transition-1.2.0.aar\d76633be384a908b5c32f83f32da8713\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\appcompat-1.2.0.aar\e0fa9de68ce502e5dd69ec5afea98ee1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\appcompat-1.2.0.aar\e0fa9de68ce502e5dd69ec5afea98ee1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0.aar\a6f543004ae307f86ad6f1da2de4892f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.2.0.aar\a6f543004ae307f86ad6f1da2de4892f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\7e234025c4518a30f38df6247d0d2023\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\7e234025c4518a30f38df6247d0d2023\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\260af3b8fb3f6d00834eedfd80ddcbff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\260af3b8fb3f6d00834eedfd80ddcbff\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\df16efd7627c09b8b85d784de0d9966d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\viewpager2-1.0.0.aar\df16efd7627c09b8b85d784de0d9966d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\dynamicanimation-1.0.0.aar\9beb54a6feb8e4ca4085c70423a657d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\dynamicanimation-1.0.0.aar\9beb54a6feb8e4ca4085c70423a657d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\a55863080ed3d4f4600147471677b857\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0.aar\a55863080ed3d4f4600147471677b857\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\619eddb98578b940b2b3f11ac8187c0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\619eddb98578b940b2b3f11ac8187c0e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\ade949e726e886b0364200f86e055720\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\ade949e726e886b0364200f86e055720\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7e2debaf58cbdad48b7cb6963735f38c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7e2debaf58cbdad48b7cb6963735f38c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\784324aa3c240a59eb39e67409b9589f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\784324aa3c240a59eb39e67409b9589f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\65f2daf5bdd8d1b66a037cccd9291944\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\65f2daf5bdd8d1b66a037cccd9291944\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\e2e0676e8aad17a9517728b2b2ae33ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\e2e0676e8aad17a9517728b2b2ae33ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\b6bc527842dcb47e012dd799e3f4f67c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\b6bc527842dcb47e012dd799e3f4f67c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-1.3.1.aar\c0ff2602239e2e53248d7a28a43398d4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-1.3.1.aar\c0ff2602239e2e53248d7a28a43398d4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e36b0bca572ae18221bec6e1f7090f6d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\e36b0bca572ae18221bec6e1f7090f6d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\a768d7cdb322d3873bf24f05ea28d3ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\a768d7cdb322d3873bf24f05ea28d3ed\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\f48b8a4a5749c0153d141a8e848f494c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\f48b8a4a5749c0153d141a8e848f494c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\20d9d436965ed35e7b4c88775805105b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\20d9d436965ed35e7b4c88775805105b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\41a89b029e3799fc29cfb47463691c3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\41a89b029e3799fc29cfb47463691c3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\6f998dfd50af3fdd48d2353af0800767\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\6f998dfd50af3fdd48d2353af0800767\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\eb48f0695805a491b79a308497004683\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\eb48f0695805a491b79a308497004683\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\fc6af22bc96edd459eea0e9c58538776\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\fc6af22bc96edd459eea0e9c58538776\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\1ddcc7c05f713a714f4662e92cf603cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\1ddcc7c05f713a714f4662e92cf603cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\c79227c7c57a694c921864cd8801263e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\c79227c7c57a694c921864cd8801263e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\749383bd9050602d47a96f965711dfcd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\749383bd9050602d47a96f965711dfcd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\fc2f4730325cf613b20b9c693968aeec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\fc2f4730325cf613b20b9c693968aeec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\annotation-experimental-1.0.0.aar\e3dfd22d35d33b9e9c4ac966d04b6537\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\annotation-experimental-1.0.0.aar\e3dfd22d35d33b9e9c4ac966d04b6537\AndroidManifest.xml:20:5-22:41
+INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+		ADDED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+		INJECTED from F:\my_old_project\ActivationCodeApp\app\src\main\AndroidManifest.xml
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:1.2.0] C:\Users\STAR\.gradle\caches\transforms-1\files-1.1\jetified-easypermissions-1.2.0.aar\84ec76b9c6b69349239666b60ff5014f\AndroidManifest.xml:13:13-86

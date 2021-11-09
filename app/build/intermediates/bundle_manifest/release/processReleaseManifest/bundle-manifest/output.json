@@ -1,0 +1,1 @@
+[{"outputType":{"type":"BUNDLE_MANIFEST"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0.0","enabled":true,"outputFile":"active_release.log","fullName":"release","baseName":"release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.example.getactivecode","split":"","minSdkVersion":"19"}}]
